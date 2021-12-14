@@ -1,4 +1,5 @@
 # Amazon Vine - Video Game Rating Analysis
+<img width="665" alt="gamer" src="https://user-images.githubusercontent.com/88520573/145936554-6443aa53-ec80-44de-a2c6-51afdea62ae9.png">
 
 ## Overview: 
 The purpose of this report involves analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. We completed an analysis on all video game products that were reviewed across the vine program by paid and unpaid reviewers. We also completed an assessment of how many for 5-star reviews to compared based on the vine membership (paid vs unpaid).
